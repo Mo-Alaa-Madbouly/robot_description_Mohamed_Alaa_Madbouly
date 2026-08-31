@@ -87,3 +87,5 @@ ros2 pkg list | grep robot_description
 The robot model should appear with its chassis, two wheels, rear caster wheel, LiDAR, and ZED camera.
 
 Make sure the mesh files are present in the `meshes` folder before previewing the robot.
+<img width="604" height="442" alt="image" src="https://github.com/user-attachments/assets/e6cde3bf-1fc2-4e25-b45e-beddcbe4f175" />
+
